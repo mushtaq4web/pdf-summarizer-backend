@@ -6,7 +6,7 @@ const axios = require("axios");
 const fs = require("fs");
 
 const app = express();
-const PORT = 5000;
+const PORT = 10000;
 
 require("dotenv").config();
 
